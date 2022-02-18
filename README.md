@@ -30,3 +30,9 @@
 `2.` train과 test에 같은 코드를 적용하는 경우가 많은데 이를 함수로 만들자(또한 사이킷런 pipeline 알아보기)
 
 `3.` public score와 private score 차이가 많이 난다(public score 말고 valid score를 최종 제출 기준으로 삼는 것도 나쁘지 않음)  
+
+## 항공사 고객 만족도 예측하면서 알게된 점
+
+`1.` 다중공선성을 고려하여 변수를 선택하자
+
+`2.` EDA는 필수!
