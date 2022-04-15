@@ -63,6 +63,6 @@
 
 `1.` 단어에 값을 부여하는 방식 중 `Count Vectorizer`와 `TF-IDF Vectorizer`는 중요하니 알아두자
 
-`2.` 파이토치의 `DataLoader` 클래스가 가지고 있는 `collate_fn` 메소드를 통해 `Dataset`의 output을 어떻게 처리하여 return할 지 조작할 수 있다
+`2.` 파이토치의 `DataLoader` 클래스가 가지는 `collate_fn` 메소드를 통해 `Dataset`의 output을 어떻게 처리하여 return할 지 조작할 수 있다
 
 `3.` 반복되는 연산은 함수로 만들어야 활용도가 더 높으니 함수를 적극 활용하자(다른 대회에서도 사용할 수 있게 하자) 
