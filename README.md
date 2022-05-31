@@ -83,6 +83,8 @@
 
 ## 수화 이미지 분류하면서 알게된 점
 
+`-` 코드 공유 : https://dacon.io/competitions/official/235896/codeshare/5075?page=1&dtype=recent
+
 `1.` `torchvision.transforms` 대신에 `albumentations`을 사용하면 다양한 이미지 변형을 더 빠르게 할 수 있다
 
 `2.` 라벨 스무딩을 통해 과적합을 피할 수 있다
