@@ -8,6 +8,8 @@ LinearSVC, RNN과 같은 모델보다 BERT 모델의 성능이 더 우수하다
 
 - BERT 모델에 따른 성능
 
+kfold training을 할 땐 조기중단을 사용
+
 |model name|epochs|batch size|learing rate|max len|label smoothing|valid acc|public acc|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |skt/kobert-base-v1|2|64|5e-5|64|0.05|0.68631|0.68344|
