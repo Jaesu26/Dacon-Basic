@@ -17,3 +17,4 @@ kfold training을 할 땐 조기중단을 사용
 |klue/roberta-base|5 fold|128|1e-5|50|0.05|0.6958|0.69568|
 |kykim/electra-kor-base|5 fold|128|2e-5|50|0.05|0.7033|0.70872|
 |kykim/electra-kor-base|5 fold|128|2e-5|50|0.1|0.7033|0.70544|
+|kykim/funnel-kor-base|5 fold|128|1e-5|50|0.05|0.7017|0.7024|
