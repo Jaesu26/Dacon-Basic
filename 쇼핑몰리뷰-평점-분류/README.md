@@ -4,9 +4,9 @@
 
 ## BERT 모델
 
-LinearSVC, RNN과 같은 모델보다 BERT 모델의 성능이 더 우수하다
+LinearSVC, RNN과 같은 모델보다 Transformer 모델의 성능이 더 우수하다
 
-- BERT 모델에 따른 성능
+- Transformer 모델에 따른 성능
 
 kfold training을 할 땐 조기중단을 사용
 
