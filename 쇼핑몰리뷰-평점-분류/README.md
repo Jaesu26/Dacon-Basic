@@ -15,5 +15,5 @@ kfold training을 할 땐 조기중단을 사용
 |skt/kobert-base-v1|2|64|5e-5|64|0.05|0.68631|0.68344|
 |klue/roberta-base|2|64|1e-5|50|0.05|0.7054|0.68952|
 |klue/roberta-base|5 fold|128|1e-5|50|0.05|0.6958|0.69568|
-|kykim/electra-kor-base|5 fold|128|2e-5|50|0.05|0.7029|0.70864|
+|kykim/electra-kor-base|5 fold|128|2e-5|50|0.05|0.7033|0.70872|
 |kykim/electra-kor-base|5 fold|128|2e-5|50|0.1|0.7033|0.70544|
