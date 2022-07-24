@@ -19,5 +19,6 @@ kfold training을 할 땐 조기중단을 사용
 |kykim/electra-kor-base|5 fold|128|2e-5|50|0.05|0.7033|0.70872|
 |kykim/electra-kor-base|5 fold|128|2e-5|50|0.1|0.7033|0.70544|
 |kykim/electra-kor-base|5 fold|256|3e-5|50|0.05|0.7048|0.7048|
+|kykim/electra-kor-base|10 fold|128|2e-5|50|0.05|0.7064|0.70496|
 |kykim/funnel-kor-base|5 fold|128|1e-5|50|0.05|0.7017|0.7024|
 |monologg/koelectra-base-v3-discriminator|5 fold|128|2e-5|50|0.05|0.6953|0.69432|
