@@ -24,4 +24,5 @@ scheduler는 transformers의 get_cosine_schedule_with_warmup를 사용 (warmup_s
 |kykim/electra-kor-base|False|5 fold|256|3e-5|50|0.05|O|0.7048|0.7048|
 |kykim/electra-kor-base|False|10 fold|128|2e-5|50|0.05|O|0.7064|0.70496|
 |kykim/funnel-kor-base|False|5 fold|128|1e-5|50|0.05|X|0.7017|0.7024|
+|kykim/funnel-kor-base|True|5 fold|128|1e-5|50|0.05|O|0.7070|0.70536|
 |monologg/koelectra-base-v3-discriminator|False|5 fold|128|2e-5|50|0.05|O|0.6953|0.69432|
