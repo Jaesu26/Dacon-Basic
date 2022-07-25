@@ -19,7 +19,7 @@ scheduler는 transformers의 get_cosine_schedule_with_warmup를 사용 (warmup_s
 |klue/roberta-base|False|5 fold|128|1e-5|50|0.05|X|0.6958|0.69568|
 |kykim/electra-kor-base|False|5 fold|64|1e-5|50|0.05|X|0.7040|0.7064|
 |kykim/electra-kor-base|False|5 fold|128|2e-5|50|0.05|X|0.7033|0.70872|
-|kykim/electra-kor-base|True|5 fold|128|2e-5|50|0.05|O|0.7078|0.70664|
+|kykim/electra-kor-base|True|5 fold|128|2e-5|64|0.05|O|0.7078|0.70664|
 |kykim/electra-kor-base|False|5 fold|128|2e-5|50|0.1|X|0.7033|0.70544|
 |kykim/electra-kor-base|False|5 fold|256|3e-5|50|0.05|O|0.7048|0.7048|
 |kykim/electra-kor-base|False|10 fold|128|2e-5|50|0.05|O|0.7064|0.70496|
