@@ -10,6 +10,8 @@ LinearSVC, RNN과 같은 모델보다 Transformer 모델의 성능이 더 우수
 
 kfold training을 할 땐 조기중단을 사용
 
+scheduler는 transformers의 get_cosine_schedule_with_warmup를 사용 (warmup_step은 전체의 0.1)
+
 |model name|cleaning|epochs|batch size|learning rate|max len|label smoothing|scheduler|valid acc|public acc|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |skt/kobert-base-v1|False|2|64|5e-5|64|0.05|O|0.68631|0.68344|
