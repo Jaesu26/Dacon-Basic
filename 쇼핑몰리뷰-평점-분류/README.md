@@ -10,15 +10,15 @@ LinearSVC, RNN과 같은 모델보다 Transformer 모델의 성능이 더 우수
 
 kfold training을 할 땐 조기중단을 사용
 
-|model name|epochs|batch size|learning rate|max len|label smoothing|valid acc|public acc|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|skt/kobert-base-v1|2|64|5e-5|64|0.05|0.68631|0.68344|
-|klue/roberta-base|2|64|1e-5|50|0.05|0.7054|0.68952|
-|klue/roberta-base|5 fold|128|1e-5|50|0.05|0.6958|0.69568|
-|kykim/electra-kor-base|5 fold|64|1e-5|50|0.05|0.7040|0.7064|
-|kykim/electra-kor-base|5 fold|128|2e-5|50|0.05|0.7033|0.70872|
-|kykim/electra-kor-base|5 fold|128|2e-5|50|0.1|0.7033|0.70544|
-|kykim/electra-kor-base|5 fold|256|3e-5|50|0.05|0.7048|0.7048|
-|kykim/electra-kor-base|10 fold|128|2e-5|50|0.05|0.7064|0.70496|
-|kykim/funnel-kor-base|5 fold|128|1e-5|50|0.05|0.7017|0.7024|
-|monologg/koelectra-base-v3-discriminator|5 fold|128|2e-5|50|0.05|0.6953|0.69432|
+|model name|cleaning|epochs|batch size|learning rate|max len|label smoothing|scheduler|valid acc|public acc|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|skt/kobert-base-v1|False|2|64|5e-5|64|0.05|O|0.68631|0.68344|
+|klue/roberta-base|False|2|64|1e-5|50|0.05|X|0.7054|0.68952|
+|klue/roberta-base|False|5 fold|128|1e-5|50|0.05|X|0.6958|0.69568|
+|kykim/electra-kor-base|False|5 fold|64|1e-5|50|0.05|X|0.7040|0.7064|
+|kykim/electra-kor-base|False|5 fold|128|2e-5|50|0.05|X|0.7033|0.70872|
+|kykim/electra-kor-base|False|5 fold|128|2e-5|50|0.1|X|0.7033|0.70544|
+|kykim/electra-kor-base|False|5 fold|256|3e-5|50|0.05|X|0.7048|0.7048|
+|kykim/electra-kor-base|False|10 fold|128|2e-5|50|0.05|X|0.7064|0.70496|
+|kykim/funnel-kor-base|False|5 fold|128|1e-5|50|0.05|X|0.7017|0.7024|
+|monologg/koelectra-base-v3-discriminator|False|5 fold|128|2e-5|50|0.05|O|0.6953|0.69432|
