@@ -21,6 +21,7 @@ preprocessing은 텍스트를 정제하고 띄어쓰기를 교정 (텍스트 정
 |klue/roberta-base|False|5 fold|128|1e-5|50|0.05|X|0.6958|0.69568|
 |kykim/electra-kor-base|False|5 fold|64|1e-5|50|0.05|X|0.7040|0.7064|
 |kykim/electra-kor-base|True (Space X)|5 fold|128|1e-5|50|0.05|O|0.7072|0.70512|
+|kykim/electra-kor-base|True|5 fold|128|2e-5|50|0.0|O|0.7028|0.7060|
 |kykim/electra-kor-base|False|5 fold|128|2e-5|50|0.05|X|0.7033|0.70872|
 |kykim/electra-kor-base|True|5 fold|128|2e-5|50|0.05|O|0.7078|0.70664|
 |kykim/electra-kor-base|False|5 fold|128|2e-5|50|0.1|X|0.7033|0.70544|
