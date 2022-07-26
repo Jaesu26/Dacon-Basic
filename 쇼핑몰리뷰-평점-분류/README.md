@@ -12,9 +12,9 @@ kfold training을 할 땐 조기중단을 사용
 
 scheduler는 transformers의 get_cosine_schedule_with_warmup를 사용 (warmup_step은 전체의 0.1)
 
-cleaning은 이모티콘과 중복 단어, 공백 등을 제거하고 띄어쓰기를 교정한다 (https://github.com/Beomi/KcELECTRA)
+preprocessing은 텍스트를 정제하고 띄어쓰기를 교정한다 (텍스트 정제: https://github.com/Beomi/KcELECTRA, 띄어쓰기는 pykospacing 패키지 이용)
 
-|model name|cleaning|epochs|batch size|learning rate|max len|label smoothing|scheduler|valid acc|public acc|
+|model name|preprocessing|epochs|batch size|learning rate|max len|label smoothing|scheduler|valid acc|public acc|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |skt/kobert-base-v1|False|2|64|5e-5|64|0.05|O|0.68631|0.68344|
 |klue/roberta-base|False|2|64|1e-5|50|0.05|X|0.7054|0.68952|
