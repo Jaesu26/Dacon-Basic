@@ -30,3 +30,4 @@ preprocessing은 텍스트를 정제하고 띄어쓰기를 교정 (텍스트 정
 |kykim/funnel-kor-base|False|5 fold|128|1e-5|50|0.05|X|0.7017|0.7024|
 |kykim/funnel-kor-base|True|5 fold|128|1e-5|50|0.05|O|0.7070|0.70536|
 |monologg/koelectra-base-v3-discriminator|False|5 fold|128|2e-5|50|0.05|O|0.6953|0.69432|
+|kykim/electra-kor-base, kykim/funnel-kor-base|True|5 fold|128|2e-5|50|0.05|O| |0.71008|
