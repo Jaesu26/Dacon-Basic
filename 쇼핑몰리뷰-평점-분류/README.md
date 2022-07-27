@@ -8,6 +8,8 @@
 
 - Transformer 모델에 따른 성능
 
+`-` 동일한 파라미터로 학습해도 재현이 안될 수 있
+
 `-` kfold training을 할 땐 조기중단을 사용
 
 `-` scheduler는 transformers의 get_cosine_schedule_with_warmup를 사용 (warmup_step은 전체의 0.1)
