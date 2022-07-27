@@ -2,7 +2,7 @@
 
 쇼핑몰 리뷰의 평점(1, 2, 4, 5)을 분류하는 모델을 만들자
 
-## BERT 모델
+## Transformer 모델
 
 `-` LinearSVC, RNN과 같은 모델보다 Transformer 모델의 성능이 더 우수하다
 
