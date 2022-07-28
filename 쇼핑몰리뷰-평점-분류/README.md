@@ -8,13 +8,15 @@
 
 - Transformer 모델에 따른 성능
 
-`-` kfold training을 할 땐 조기중단을 사용
+`-` kfold training을 할 땐 조기중단을 사용 (patience는 1로 설정)
 
 `-` scheduler는 transformers의 get_cosine_schedule_with_warmup를 사용 (warmup_step은 전체의 0.1)
 
 `-` preprocessing은 텍스트를 정제하고 띄어쓰기를 교정 (텍스트 정제: https://github.com/Beomi/KcELECTRA, 띄어쓰기: `pykospacing` 패키지)
 
 `-` 모델을 여러개 사용한 경우 예측값을 평균내어 앙상블 (파라미터는 동일한 경우 한 번만 적었으며 다른 경우 콤마로 구분, 각 모델을 따로 학습시킨 후 앙상블하여 예측했기에 valid acc와 public acc가 상이하여 valid acc는 기입하지 않음)
+
+`-` 표기하지 않은 파라미터(i.g. dropout)의 경우 모델의 기본값을 사용
 
 |model name|preprocessing|epochs|batch size|learning rate|max len|label smoothing|scheduler|valid acc|public acc|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
