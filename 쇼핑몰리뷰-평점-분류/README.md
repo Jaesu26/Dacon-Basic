@@ -29,6 +29,7 @@
 |kykim/electra-kor-base|True|5 fold|128|2e-5|50|0.025|O|0.7046|0.70632|
 |kykim/electra-kor-base|False|5 fold|128|2e-5|50|0.05|X|0.7033|0.70872|
 |kykim/electra-kor-base|True|5 fold|128|2e-5|50|0.05|O|0.7064|0.70728|
+|kykim/electra-kor-base|True|5 fold|128|2e-5|50|0.075|O|0.7044|0.70672|
 |kykim/electra-kor-base|False|5 fold|128|2e-5|50|0.1|X|0.7033|0.70544|
 |kykim/electra-kor-base|False|5 fold|256|3e-5|50|0.05|O|0.7048|0.7048|
 |kykim/electra-kor-base|False|10 fold|128|2e-5|50|0.05|O|0.7064|0.70496|
