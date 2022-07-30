@@ -39,4 +39,5 @@
 |kykim/funnel-kor-base|True (Space X)|5 fold|128|2e-5|50|0.05|O|0.7064|0.70616|
 |kykim/funnel-kor-base|True|5 fold|128|1e-5|50|0.05|O|0.7070|0.70536|
 |kykim/funnel-kor-base|True|5 fold|128|2e-5|50|0.05|O|0.7053|0.71216|
+|kykim/electra-kor-base, kykim/funnel-kor-base|True (Space X)|5 fold|128|2e-5|50|0.05|O| |0.70944|
 |kykim/electra-kor-base, kykim/funnel-kor-base|True|5 fold|128|2e-5|50|0.05|O| |0.7124|
