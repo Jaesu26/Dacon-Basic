@@ -21,9 +21,9 @@
 |model name|preprocessing|epochs|batch size|learning rate|max len|label smoothing|scheduler|valid acc|public acc|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |skt/kobert-base-v1|False|2|64|5e-5|64|0.05|O|0.68631|0.68344|
-|monologg/koelectra-base-v3-discriminator|False|5 fold|128|2e-5|50|0.05|O|0.6953|0.69432|
 |klue/roberta-base|False|2|64|1e-5|50|0.05|X|0.7054|0.68952|
 |klue/roberta-base|False|5 fold|128|1e-5|50|0.05|X|0.6958|0.69568|
+|monologg/koelectra-base-v3-discriminator|False|5 fold|128|2e-5|50|0.05|O|0.6953|0.69432|
 |kykim/electra-kor-base|False|5 fold|64|1e-5|50|0.05|X|0.7040|0.7064|
 |kykim/electra-kor-base|False|5 fold|128|2e-5|50|0.05|X|0.7033|0.70872|
 |kykim/electra-kor-base|False|5 fold|128|2e-5|50|0.1|X|0.7033|0.70544|
