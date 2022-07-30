@@ -8,7 +8,7 @@
 
 - Transformer 모델에 따른 성능
 
-`-` kfold training을 할 땐 조기중단을 사용 (patience는 1로 설정)
+`-` Kfold training을 할 땐 조기중단을 사용 (patience는 1로 설정)
 
 `-` scheduler는 transformers의 get_cosine_schedule_with_warmup를 사용 (warmup_step은 전체의 0.1)
 
