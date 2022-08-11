@@ -98,3 +98,11 @@
 `2.` 단순히 푸리에 변환을 하여 음성 데이터의 특징을 추출하기보단 MFCC와 Mel Spectrogram을 사용하여 특징을 추출하는 것이 더 효과적이다
 
 `3.` 푸리에 변환을 공부하자...
+
+## 쇼핑몰 리뷰 평점 분류하면서 알게된 점
+
+`-` 코드 공유 : https://dacon.io/competitions/official/235938/codeshare/5938?page=1&dtype=recent
+
+`1.` Transformer는 자연어 처리 분야에서 매우 우수한 모델이다
+
+`2.` `transformers` 패키지의 Auto Classes를 활용해 손쉽게 트랜스포머 모델을 불러올 수 있다 (https://huggingface.co/docs/transformers/model_doc/auto) 
