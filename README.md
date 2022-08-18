@@ -3,7 +3,7 @@
 데이콘 Basic 대회 참가하기
 
 |대회명|최종 순위|
-|-::|:-:|
+|:-:|:-:|
 |[펭귄 몸무게 예측 경진대회](https://dacon.io/competitions/official/235862/overview/description)|104 / 289|
 |[영화 리뷰 감성분석 경진대회](https://dacon.io/competitions/official/235864/overview/description)|51 / 327|
 |[집값 예측 경진대회](https://dacon.io/competitions/official/235869/overview/description)|2 / 458|
