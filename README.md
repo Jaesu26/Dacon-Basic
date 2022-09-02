@@ -16,7 +16,7 @@
 |[음성 분류 경진대회](https://dacon.io/competitions/official/235905/overview/description)|25 / 124|
 |[데이콘 Basic 쇼핑몰 지점별 매출액 예측 경진대회](https://dacon.io/competitions/official/235942/overview/description)|49 / 694|
 |[데이콘 Basic 쇼핑몰 리뷰 평점 분류 경진대회](https://dacon.io/competitions/official/235938/overview/description)|1 / 252|
-|[데이콘 Basic 서울 랜드마크 이미지 분류 경진대회](https://dacon.io/competitions/official/235957/overview/description)|? / ???|
+|[데이콘 Basic 서울 랜드마크 이미지 분류 경진대회](https://dacon.io/competitions/official/235957/overview/description)|5 / 207|
 
 ## 뗑컨 몸무게 예측하면서 알게된 점 
 
@@ -128,7 +128,7 @@
 
 ## 서울 랜드마크 이미지 분류하면서 알게된 점
 
-`-` 코드 공유
+`-` 코드 공유 : https://dacon.io/competitions/official/235957/codeshare/6481?page=1&dtype=recent
 
 `1.` 이미지 변형을 통해 데이터를 증강할 때 꼭 변형된 이미지를 확인해야 한다
 
