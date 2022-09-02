@@ -130,6 +130,6 @@
 
 `-` 코드 공유 : https://dacon.io/competitions/official/235957/codeshare/6481?page=1&dtype=recent
 
-`1.` 이미지 변형을 통해 데이터를 증강할 때 꼭 변형된 이미지를 확인해야 한다
+`1.` 이미지 변형을 통해 데이터를 증강할 땐 꼭 변형된 이미지를 확인해야 한다
 
 `2.` `albumentations` : https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py
