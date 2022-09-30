@@ -130,6 +130,10 @@
 
 `-` 코드 공유 : https://dacon.io/competitions/official/235957/codeshare/6481?page=1&dtype=recent
 
-`1.` 이미지 변형을 통해 데이터를 증강할 땐 꼭 변형된 이미지를 확인해야 한다
+`1.` 이미지 변형을 통해 데이터를 증강할 땐 꼭 변형된 이미지를 확인해야 한다!
 
-`2.` `albumentations` : https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py
+`2.` 예시로 `albumentations` 패키지에 있는 `GaussNoise` 트랜스폼은 변형 후 이미지를 반환할 때 픽셀값을 0과 1사이로 만드므로 픽셀값을 미리 정규화해야 한다
+
+`3.` `albumentations` : https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py
+
+ 
