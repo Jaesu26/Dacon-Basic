@@ -10,10 +10,9 @@
 
 `2.` Early Stopping과 K-Fold Cross Validation을 통해 과적합을 피하고 일반화 성능을 향상시키자
 
-`
-## 다른 사람의 접근 방식
+## 대회 1등의 접근 방식
 
-ref: https://dacon.io/competitions/official/235876/codeshare/4686?page=1&dtype=recent
+1등 코드 링크: https://dacon.io/competitions/official/235876/codeshare/4686?page=1&dtype=recent
 
 **센서 번호가 4씩 떨어진 변수 사이에 상관관계가 있음을 EDA를 통해 알아냈다**
 
