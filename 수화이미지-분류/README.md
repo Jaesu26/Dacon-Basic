@@ -3,6 +3,7 @@
 0부터 10까지 수화 이미지를 통해 숫자를 분류
 
 대회 링크: https://dacon.io/competitions/official/235896/overview/description
+
 코드 공유: https://dacon.io/competitions/official/235896/codeshare/5075?page=1&dtype=recent
 
 ## 수화 이미지 분류하면서 알게된 점
