@@ -16,4 +16,4 @@
 |[음성 분류 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/음성-분류)|25 / 124|
 |[쇼핑몰 지점별 매출액 예측 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/쇼핑몰지점별-매출액-예측)|49 / 694|
 |[쇼핑몰 리뷰 평점 분류 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/쇼핑몰리뷰-평점-분류)|**1** / 252|
-|[서울 랜드마크 이미지 분류 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/서울랜드마크-이미지-)|**3** / 207|
+|[서울 랜드마크 이미지 분류 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/서울랜드마크-이미지)|**3** / 207|
