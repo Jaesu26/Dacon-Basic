@@ -2,7 +2,7 @@
 
 쇼핑몰 리뷰의 평점(1, 2, 4, 5)을 분류하는 모델을 개발
 
-`-` 코드 공유: https://dacon.io/competitions/official/235938/codeshare/5938?page=1&dtype=recent
+코드 공유: https://dacon.io/competitions/official/235938/codeshare/5938?page=1&dtype=recent
 
 ## 쇼핑몰 리뷰 평점 분류하면서 알게된 점
 
