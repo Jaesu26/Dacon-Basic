@@ -2,7 +2,7 @@
 
 대회 링크: https://dacon.io/competitions/official/235884/overview/description
 
-코드 공유 : https://dacon.io/competitions/official/235884/codeshare/4822?page=1&dtype=recent
+코드 공유: https://dacon.io/competitions/official/235884/codeshare/4822?page=1&dtype=recent
 
 ## 뉴스 그룹 분류하면서 알게된 점
 
