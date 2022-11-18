@@ -1,6 +1,16 @@
 # 쇼핑몰 리뷰 평점 분류 경진대회
 
-쇼핑몰 리뷰의 평점(1, 2, 4, 5)을 분류하는 모델을 만들자
+쇼핑몰 리뷰의 평점(1, 2, 4, 5)을 분류하는 모델을 개발
+
+`-` 코드 공유 : https://dacon.io/competitions/official/235938/codeshare/5938?page=1&dtype=recent
+
+## 쇼핑몰 리뷰 평점 분류하면서 알게된 점
+
+`1.` Transformer는 자연어 처리 분야에서 매우 우수한 모델이다
+
+`2.` `transformers` 패키지의 Auto Classes를 활용해 손쉽게 트랜스포머 모델을 불러올 수 있다
+
+`3.` Auto Classes : https://huggingface.co/docs/transformers/model_doc/auto
 
 ## Transformer 모델
 
