@@ -17,4 +17,4 @@
 |[쇼핑몰 지점별 매출액 예측 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/쇼핑몰지점별-매출액-예측)|49 / 694|
 |[쇼핑몰 리뷰 평점 분류 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/쇼핑몰리뷰-평점-분류)|**1** / 252|
 |[서울 랜드마크 이미지 분류 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/서울랜드마크-이미지-분류)|**3** / 207|
-|[축구선수의 유망 여부 예측 AI 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/서울랜드마크-이미지-분류)|4 / 89|
+|[축구선수의 유망 여부 예측 AI 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/축구선수-유망여부-)|4 / 89|
