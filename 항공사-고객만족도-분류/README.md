@@ -4,7 +4,7 @@
 
 대회 링크: https://dacon.io/competitions/official/235871/overview/description
 
-## 항공사 고객 만족도 예측하면서 알게된 점
+## 항공사 고객 만족도 분류하면서 알게된 점
 
 `1.` 다중공선성을 고려하여 변수를 선택하자
 
