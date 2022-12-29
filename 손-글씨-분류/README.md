@@ -4,7 +4,7 @@
 
 대회 링크: https://dacon.io/competitions/official/235838/overview/description
 
-## 손 글씨 (숫자) 분류하면서 알게된 점(연습)
+## 손 글씨 분류하면서 알게된 점
 
 `1.` 미니배치 사이즈가 너무 크면 메모리가 터져서 컴퓨터가 멈춘다
 
