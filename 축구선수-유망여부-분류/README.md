@@ -4,7 +4,7 @@
 
 대회 링크: https://dacon.io/competitions/official/236031/overview/description
 
-코드 공유: https://dacon.io/competitions/official/236031/codeshare/7108?page=1&dtype=recent
+코드 공유: https://dacon.io/competitions/official/236031/codeshare/7108
 
 ## 축구선수 유망 여부 분류하면서 알게된 점
 
