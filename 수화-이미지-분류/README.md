@@ -4,7 +4,7 @@
 
 대회 링크: https://dacon.io/competitions/official/235896/overview/description
 
-코드 공유: https://dacon.io/competitions/official/235896/codeshare/5075?page=1&dtype=recent
+코드 공유: https://dacon.io/competitions/official/235896/codeshare/5075
 
 ## 수화 이미지 분류하면서 알게된 점
 
