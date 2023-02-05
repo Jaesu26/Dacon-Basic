@@ -4,7 +4,7 @@ housing 데이터를 통한 집값 예측
 
 대회 링크: https://dacon.io/competitions/official/235869/overview/description
 
-코드 공유: https://dacon.io/competitions/official/235869/codeshare/4428?page=1&dtype=recent
+코드 공유: https://dacon.io/competitions/official/235869/codeshare/4428
 
 ## 집값 예측하면서 알게된 점 
 
