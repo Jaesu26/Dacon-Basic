@@ -4,7 +4,7 @@
 
 대회 링크: https://dacon.io/competitions/official/235957/overview/description
 
-코드 공유: https://dacon.io/competitions/official/235957/codeshare/6481?page=1&dtype=recent
+코드 공유: https://dacon.io/competitions/official/235957/codeshare/6481
 
 ## 서울 랜드마크 이미지 분류하면서 알게된 점
 
