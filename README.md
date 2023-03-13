@@ -20,3 +20,4 @@
 |[축구선수의 유망 여부 예측 AI 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/축구선수-유망여부-분류)|4 / 89|
 |[해외 부동산 월세 예측 AI 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/해외부동산-월세-예측)|43 / 70|
 |[음악 장르 분류 AI 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/음악-장르-분류)|**4** / 125|
+|[풍력 발전량 예측 AI 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/풍력-발전량-예측)|53 / 129|
