@@ -10,4 +10,4 @@
 
 `1.` 이미지 변형을 통해 데이터를 증강할 땐 꼭 변형된 이미지를 확인해야 한다!
 
-`2.` 예시로 [`albumentations`](https://github.com/albumentations-team/albumentations/blob/master/albumentations/augmentations/transforms.py) 패키지에 있는 `GaussNoise` 클래스는 이미지 변형 후 이를 반환할 때 픽셀값을 0과 1사이로 만드므로 픽셀값을 미리 정규화해야 한다
+`2.` 예시로 `albumentations` 패키지에 있는 [`GaussNoise`](https://github.com/albumentations-team/albumentations/blob/1.2.1/albumentations/augmentations/transforms.py#L1789) 클래스는 이미지 변형 후 이를 반환할 때 픽셀값을 0과 1사이로 만드므로 픽셀값을 미리 정규화해야 한다
