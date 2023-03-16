@@ -10,9 +10,7 @@
 
 `1.` Transformer는 자연어 처리 분야에서 매우 우수한 모델이다
 
-`2.` `transformers` 패키지의 Auto Classes를 활용해 손쉽게 트랜스포머 모델을 불러올 수 있다
-
-`3.` Auto Classes: https://huggingface.co/docs/transformers/model_doc/auto
+`2.` `transformers` 패키지의 [`Auto Classes`](https://huggingface.co/docs/transformers/model_doc/auto)를 활용해 손쉽게 트랜스포머 모델을 불러올 수 있다
 
 ## Transformer 모델
 
