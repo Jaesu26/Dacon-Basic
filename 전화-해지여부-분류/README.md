@@ -4,6 +4,8 @@
 
 대회 링크: https://dacon.io/competitions/official/236075/overview/description
 
+코드 공유: https://dacon.io/competitions/official/236075/codeshare/7817
+
 ## 전화 해지 여부 분류하면서 알게된 점
 
 `1.` 대회안내의 규칙 탭을 잘 살펴보자, 이번 대회는 private 데이터 없이 public 데이터 100%로 최종 순위를 매겼다
