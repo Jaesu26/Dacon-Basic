@@ -23,4 +23,4 @@
 |[풍력 발전량 예측 AI 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/풍력-발전량-예측)|53 / 129|
 |[전화 해지 여부 분류 AI 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/전화-해지여부-분류)|8 / 577|
 |[칼로리 소모량 예측 AI 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/칼로리-소모량-예측)|44 / 358|
-|[자동차 가격 예측 AI 경진대회](https://github.com/Jaesu26/dacon-basic)|27 / 268|
+|[자동차 가격 예측 AI 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/자동차-가격-예측)|27 / 268|
