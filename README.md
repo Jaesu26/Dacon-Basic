@@ -24,3 +24,4 @@
 |20|[전화 해지 여부 분류 AI 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/전화-해지여부-분류)|8 / 577|
 |21|[칼로리 소모량 예측 AI 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/칼로리-소모량-예측)|44 / 358|
 |22|[자동차 가격 예측 AI 경진대회](https://github.com/Jaesu26/dacon-basic)|27 / 268|
+|23|[고객 대출등급 분류 해커톤](https://github.com/Jaesu26/dacon-basic/tree/main/고객-대출등급-분류)|59 / 784|
