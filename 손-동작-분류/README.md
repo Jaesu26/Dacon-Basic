@@ -6,7 +6,7 @@
 
 ## 손동작 분류하면서 알게된 점
 
-`1.` 파이토치의 Conv2D에서 `padding='same'`은 stride가 1일 때만 가능하다
+`1.` 파이토치의 Conv2D에서 `padding="same"`은 stride가 1일 때만 가능하다
 
 `2.` Early Stopping과 K-Fold Cross Validation을 통해 과적합을 피하고 일반화 성능을 향상시키자
 
