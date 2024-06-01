@@ -26,4 +26,3 @@
 |22|[자동차 가격 예측 AI 경진대회](https://github.com/Jaesu26/dacon-basic)|27 / 268|
 |23|[고객 대출등급 분류 해커톤](https://github.com/Jaesu26/dacon-basic/tree/main/고객-대출등급-분류)|59 / 784|
 |24|[랜덤포레스트 모델 튜닝 챌린지](https://github.com/Jaesu26/dacon-basic/tree/main/랜덤포레스트모델-튜닝-챌린지)|**5** / 332|
-|25|[웹 광고 클릭률 예측 AI 경진대회](https://github.com/Jaesu26/dacon-basic/tree/main/%EC%9B%B9%EA%B4%91%EA%B3%A0-%ED%81%B4%EB%A6%AD%EB%A5%A0-%EC%98%88%EC%B8%A1)||
